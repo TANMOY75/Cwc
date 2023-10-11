@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Eng" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icc-cricket.com%2Fnews%2F3132532&psig=AOvVaw3osBV72Wuz_eO-ITtnguuE&ust=1697097583542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjfg6fD7YEDFQAAAAAdAAAAABAE",ENGLISH
+#EXTINF:-1 tvg-id="Eng" tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/8c0b390f-323d-453c-a131-5b88ffb0dc67/india-2023-logo.PNG",ENGLISH
 https://sportsleading.online/live/stream_e1.m3u8
 
-#EXTINF:-1 tvg-id="HIN" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icc-cricket.com%2Fnews%2F3132532&psig=AOvVaw3osBV72Wuz_eO-ITtnguuE&ust=1697097583542000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjfg6fD7YEDFQAAAAAdAAAAABAE",HINDI
+#EXTINF:-1 tvg-id="HIN" tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/8c0b390f-323d-453c-a131-5b88ffb0dc67/india-2023-logo.PNG",HINDI
 https://sportsleading.online/live/stream_e2.m3u8
