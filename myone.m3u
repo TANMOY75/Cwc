@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Eng" tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/8c0b390f-323d-453c-a131-5b88ffb0dc67/india-2023-logo.PNG",ENGLISH
+#EXTINF:-1 tvg-id="Eng" tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/8c0b390f-323d-453c-a131-5b88ffb0dc67/india-2023-logo.PNG?width=845&height=475",ENGLISH
 https://sportsleading.online/live/stream_e1.m3u8
 
-#EXTINF:-1 tvg-id="HIN" tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/8c0b390f-323d-453c-a131-5b88ffb0dc67/india-2023-logo.PNG",HINDI
+#EXTINF:-1 tvg-id="HIN" tvg-logo="https://resources.pulse.icc-cricket.com/photo-resources/2023/04/02/8c0b390f-323d-453c-a131-5b88ffb0dc67/india-2023-logo.PNG?width=845&height=475",HINDI
 https://sportsleading.online/live/stream_e2.m3u8
