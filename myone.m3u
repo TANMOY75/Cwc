@@ -7,3 +7,6 @@ https://sportsleading.online/live/stream_e2.m3u8
 
 #EXTINF:-1 tvg-id="Eng" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ENGLISH HD
 https://sportsleading.online/live/stream_e3.m3u8
+
+#EXTINF:-1 tvg-id="Eng" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",SS 1 HINDI
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd?|drmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:3604a54f6ae797c5b96f335ddfa95ad6
