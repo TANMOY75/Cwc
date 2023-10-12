@@ -8,10 +8,7 @@ https://sportsleading.online/live/stream_e2.m3u8
 #EXTINF:-1 tvg-id="Eng" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ENGLISH HD
 https://sportsleading.online/live/stream_e3.m3u8
 
-#EXTINF:-1 tvg-id="Eng" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",SS 1 HINDI
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd?|drmScheme=clearkey&drmLicense=6a9e4204f3f8577ebf6e79b3b18573f8:3604a54f6ae797c5b96f335ddfa95ad6
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6653c05e42fc4fac8f49d7cbf99498fe":"3b88f2cff3affef20b265c840bafc0cc"}
-#EXTINF:-1,Willow
-https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/",SS 1 HD HINDI
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
