@@ -10,3 +10,7 @@ https://sportsleading.online/live/stream_e3.m3u8
 
 #EXTINF:-1 tvg-id="Eng" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzVsvGhk2ZNSpFurUQdetie8kPFOFGnXN91C4DIc9JhgnnD-jdMuZZb7hOh73WFXkrEoSmjdInen4XE3H2RbSTcrP1Ip-zEHMjXp_sL4u9xtUpcaor3OYpZfGJ2CpuYTD4A9DldjtEu9HzeeS8NrOrcaw1J0Nvd2BIDPhptt8HpXA3GT8Kn1xsfjziQ/s960/Willow%20Xtra.jpg",Willow Extra
 https://tamiltv.store/playlist/dkFva2lzbDBiZ1hZMHJmVTRleXNlZ1IxMDljNHkxeG4zTTZPUkRYOEdJTy80ZGN2OWI0OC9xTGlTN1JVTzI5TXhQclZDRjFsQit2Y0Vra2lKbEtKYVBadnp3UDJpYy94RkhSbStnUitkeGs9/WillowXtra/tracks-v1a1/mono.m3u8?data=ZlVmZHpha3YzWXd5NEpDSGZjWmVSVGJPUjkycUUvTllmMFJjM0JLOEo1dFQwdjl2MmVjNkhzUDVpSFJmcmJGTnJLS28yRXBpNXUrMytoQnZKOUYxby83QmdKOHdrcDlTL2xLRm16QnFwekpUUkZwcGdTT29hWnpqTWdlMUN1Vi9vUmFHU0ZseU1tbVBtUGhuY2JuOG13PT0,&live=false&token=RnptUTNlYXQyQVczVzBqSjJ0UWt0c0VRYXBOTnl1TTlLcWs0b25iSmlIMHpGRnZtTWxRQmJBcDBkaEozZWZCUjBML0xRUU5mYW5LR1h3dXBPY2h6b1E9PQ
+
+#EXTINF:-1 tvg-id="SS1" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="TATA Sports",Star Sports 1 Hindi HD 
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd 0260 #KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=246&key
