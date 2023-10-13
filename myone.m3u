@@ -8,7 +8,5 @@ https://sportsleading.online/live/stream_e2.m3u8
 #EXTINF:-1 tvg-id="Eng" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ENGLISH HD
 https://sportsleading.online/live/stream_e3.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6a9e4204f3f8577ebf6e79b3b18573f8":"3604a54f6ae797c5b96f335ddfa95ad6"}
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/",SS 1 HD HINDI
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+#EXTINF:-1 tvg-id="Eng" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzVsvGhk2ZNSpFurUQdetie8kPFOFGnXN91C4DIc9JhgnnD-jdMuZZb7hOh73WFXkrEoSmjdInen4XE3H2RbSTcrP1Ip-zEHMjXp_sL4u9xtUpcaor3OYpZfGJ2CpuYTD4A9DldjtEu9HzeeS8NrOrcaw1J0Nvd2BIDPhptt8HpXA3GT8Kn1xsfjziQ/s960/Willow%20Xtra.jpg",Willow Extra
+https://ddh2.vipboxtv.stream/ddh2/premium598/tracks-v1a1/mono.m3u8
