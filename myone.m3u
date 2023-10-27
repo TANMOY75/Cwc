@@ -1,12 +1,7 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="Eng" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ENGLISH
-https://sportsleading.online/live/stream_e1.m3u8
 
 #EXTINF:-1 tvg-id="HIN" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",HINDI
-https://sportsleading.online/live/stream_e2.m3u8
-
-#EXTINF:-1 tvg-id="Eng" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",ENGLISH HD
-https://sportsleading.online/live/stream_e3.m3u8
+https://wc.toxic-gang.xyz/hindi.m3u8
 
 
 #EXTINF:-1, tvg-id="Eng1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",SS 1 HD Hindi
