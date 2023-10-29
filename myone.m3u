@@ -4,6 +4,9 @@
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/YCrhUUpgF3Z4V-B6Yy32jAwYbVJulI1JCtVhAeKxJQiqc7BqZNpZIMjX9GvbR6viG0gzwuFXcZwpTbQQSbcidA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 
+#EXTINF:-1 tvg-id="HIN" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",HINDI 2
+https://extra-stream.live/INDVSENG/master.m3u8?id=master.m3u8
+
 #EXTINF:-1, tvg-id="Eng1" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",SS 1 HD Hindi
 http://line.rs4ott.com:80/fdmitwofay/b6e7qbbx1i/843539
 
