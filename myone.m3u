@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="HIN" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",HINDI
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/wh16J-p5OAL-c8cN2MVp3asA8YlZX6ZqCF-JyPGZTBd5aC70eJX3ns_xJZAPxz25DdAS-X8w_8ii1DPXsapNTA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/WNh51aDv7M_VqY6qnxW3Sul1LK8H3W5ZlfYMdYafKiitpFKOCY4ngyofyZ2jkPPRhfo05sGkEG01q6HjIhS_vQ/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id="HIN" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",HINDI 2
 https://extra-stream.live/INDVSENG/master.m3u8?id=master.m3u8
