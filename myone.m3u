@@ -33,3 +33,11 @@ http://primtvlive.com:80/MRCRKvg54b/ZapyO179v5/2454930
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://koka-koka.vercel.app/key?requestor=Toxictvvalidtill-16-Dec2023&id=24
 https://koka-koka.vercel.app/24.mpd
+
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://itsk-cdn.s3.eu-west- 1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports", Star Sports 1 Hindi HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06341bf3dd635e6ca5c71188d0210373:a3864e9b45916776eaa07f263d06184d
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
