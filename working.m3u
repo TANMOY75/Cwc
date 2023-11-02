@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",SS 1 FHD Hind
+#EXTINF:-1, tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",SS 1 H FHD
 http://odm391.xyz:80/C1550D132D6A/D32740A894CA/34492
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports BJTECH" group-logo="" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",FHD ASTRO
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
