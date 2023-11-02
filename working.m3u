@@ -4,5 +4,5 @@
 http://odm391.xyz:80/9C441CD97DC0/AD34F8CF75D9/34492
 
 
-#EXTINF:-1, tvg-id="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png?20201217154549",Astro Cricket
-http://odm391.xyz:80/9C441CD97DC0/AD34F8CF75D9/450008
+#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Tan" group-logo="" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/559/1620559-h-769d81f5efa0",ASTRO FHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
