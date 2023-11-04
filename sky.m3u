@@ -1,33 +1,9 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroCricket" tvg-logo="https://shorturl.at/evLQY",FHD SKY SPORTS
-https://linear008-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_hd.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=0003f2a72d21efd159d45a3a74decd84:df0ec40586d641f3d4728ab5fd62adc3 
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Entertainment",&tv HD 
 https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_hd.mpd
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=df0ec40586d641f3d4728ab5fd62adc3:0003f2a72d21efd159d45a3a74decd84
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Entertainment",&tv HD 
-https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_hd.mpd
-
-
-
-
-
-
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={
+    type: "dash",
+    drm: {
+      "clearkey": {
         "keyId": "0003f2a72d21efd159d45a3a74decd84",
         "key": "df0ec40586d641f3d4728ab5fd62adc3"
       }
-#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Entertainment",&tv HD 
-https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_hd.mpd
+    }
