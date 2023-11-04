@@ -7,12 +7,12 @@ https://linear008-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/c
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0003f2a72d21efd159d45a3a74decd84:df0ec40586d641f3d4728ab5fd62adc3 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment",&tv HD 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Entertainment",&tv HD 
 https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_hd.mpd
 
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=df0ec40586d641f3d4728ab5fd62adc3:0003f2a72d21efd159d45a3a74decd84
-#EXTINF:-1 tvg-id="1" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png" group-title="Entertainment",&tv HD 
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="Entertainment",&tv HD 
 https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_hd.mpd
