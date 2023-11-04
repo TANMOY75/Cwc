@@ -1,15 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",SS 1 H FHD
+#EXTINF:-1, tvg-id="Hindi" tvg-logo="https://shorturl.at/vGKM6",SS 1 H FHD
 http://odm391.xyz:80/85A8D921A663/337D38444578/34492
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroCricket" tvg-logo="https://logowik.com/content/uploads/images/2023-icc-mens-cricket-world-cup7782.logowik.com.webp",FHD ASTRO
+#EXTINF:-1 tvg-id="AstroCricket" tvg-logo="https://shorturl.at/evLQY",FHD ASTRO
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Pe7a6S0ml7OkdjCZXrwbMg", "kid":"ap5CBPP4V36/bnmzsYVz+A" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Star Sports" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7433/567433-h",FHD-Hindi
+#EXTINF:-1 tvg-id="Star Sports" tvg-logo="https://shorturl.at/vGKM6",FHD-Hindi
 https://9dc1.short.gy/Star_sports_hindi.mpd
+
+
+#EXTINF:-1, tvg-id="Hindi" tvg-logo="https://shorturl.at/vGKM6",SS 1 H UHD
+https://sexyshambhavi.pages.dev/Cricket23/SportsHIN_index.m3u8
+
+
+#EXTINF:-1, tvg-id="Hindi" tvg-logo="https://shorturl.at/iqMO5",Sky Sports
+https://sexyshambhavi.pages.dev/Cricket23/Sky_index.m3u8
+
+
+#EXTINF:-1, tvg-id="Hindi" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png",Willow HD
+https://sexyshambhavi.pages.dev/Cricket23/Willow_index.m3u8
+
+
+#EXTINF:-1, tvg-id="Hindi" tvg-logo="https://shorturl.at/fU579",Willow extra
+https://sexyshambhavi.pages.dev/Cricket23/WillowExtra_index.m3u8
+
+
+#EXTINF:-1, tvg-id="Hindi" tvg-logo="https://shorturl.at/evLQY",Astro 720
+https://sexyshambhavi.pages.dev/Cricket23/Astro_index.m3u8
+
+
+
+
+
