@@ -1,9 +1,18 @@
-#EXTINF:-1 tvg-id="AstroCricket" tvg-logo="https://shorturl.at/evLQY",FHD SKY SPORTS
-https://linear002-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_hd.mpd
-    type: "dash",
-    drm: {
-      "clearkey": {
-        "keyId": "0003f2a72d21efd159d45a3a74decd84",
-        "key": "df0ec40586d641f3d4728ab5fd62adc3"
-      }
-    }
+#EXTINF:-1, tvg-id="4" tvg-logo="https://shorturl.at/vGKM6",SS 1 H UHD
+https://sexyshambhavi.pages.dev/Cricket23/SportsHIN_index.m3u8
+
+
+#EXTINF:-1, tvg-id="5" tvg-logo="https://shorturl.at/iqMO5",Sky Sports
+https://sexyshambhavi.pages.dev/Cricket23/Sky_index.m3u8
+
+
+#EXTINF:-1, tvg-id="6" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png",Willow HD
+https://sexyshambhavi.pages.dev/Cricket23/Willow_index.m3u8
+
+
+#EXTINF:-1, tvg-id="7" tvg-logo="https://shorturl.at/fU579",Willow extra
+https://sexyshambhavi.pages.dev/Cricket23/WillowExtra_index.m3u8
+
+
+#EXTINF:-1, tvg-id="8" tvg-logo="https://shorturl.at/evLQY",Astro 720
+https://sexyshambhavi.pages.dev/Cricket23/Astro_index.m3u8
