@@ -16,3 +16,13 @@ https://sexyshambhavi.pages.dev/Cricket23/WillowExtra_index.m3u8
 
 #EXTINF:-1, tvg-id="8" tvg-logo="https://shorturl.at/evLQY",Astro 720
 https://sexyshambhavi.pages.dev/Cricket23/Astro_index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports", Star Sports 1 Hindi HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#USERINFO:USER IP - & REQUEST DATE - 2023/11/09#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://chutiya-maharaj-ab-karlo-chori-ye-toxic-iptv-playlist-hei.vercel.app/key?requestor=Toxictvplaylist-hei-ye-baki-sab-Avengers-and-peakyIPTV-IPTVlinks-playlist-m3ufiles-ki-ma-ki-bosada-sabh-ke-sab-chor-sale-hei-kudh-banake-dena-chutiya-sala-madarchod&id=24
+https://chutiya-maharaj-ab-karlo-chori-ye-toxic-iptv-playlist-hei.vercel.app/24.mpd
