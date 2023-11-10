@@ -36,3 +36,5 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:18:44:83&stream=155967&exten
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:18:44:83&stream=282674&extension=m3u8?#key=Toxic-TV&token=ARTURO&id=674&[User-agent=REDLINECLIENT]
 
 
+#EXTINF:-1, tvg-id="8" tvg-logo="https://shorturl.at/evLQY",Astro FHD
+https://ThankYouSoMuch%F0%9F%8F%8F%F0%9F%98%8D@linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd?%7CdrmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
