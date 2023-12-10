@@ -4,3 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="2" tvg-logo="https://shorturl.at/evLQY",FHD ASTRO
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
+
+#EXTINF:-1,STAR SPORTS 1 HINDI FHD 
+http://galaxyiptv.pro:8080/rose12/mujteba341/90342
