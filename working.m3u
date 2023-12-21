@@ -5,6 +5,11 @@
 #EXTINF:-1 tvg-id="2" tvg-logo="https://shorturl.at/evLQY",FHD ASTRO
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="2" tvg-logo="https://shorturl.at/evLQY",FHD ASTRO
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-sports-1-hindi-hd-logo.webp",STAR SPORTS 1 HINDI FHD 
 http://4ksuper.live:80/Richard/Richard123/155967
