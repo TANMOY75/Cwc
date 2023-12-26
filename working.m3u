@@ -25,3 +25,11 @@ http://tr.redatvgold.com:80/Debbie/Debbie123/1104672
 http://rftv.wtf/tp/rjiptv.mpd?contentID=24
 
 
+#EXTINF:-1 tvg-id="24" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="Sports", Star Sports 1 Hindi HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#USERINFO:USER IP -::1 & REQUEST DATE - 2023-12-23
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://koka-koka.vercel.app/key?requestor=Robin_hood_ninjaTV&id=24
+https://chutiya-maharaj-ab-karlo-chori-ye-toxic-iptv-playlist-hei.vercel.app/24.mpd
