@@ -33,3 +33,11 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://koka-koka.vercel.app/key?requestor=Robin_hood_ninjaTV&id=24
 https://chutiya-maharaj-ab-karlo-chori-ye-toxic-iptv-playlist-hei.vercel.app/24.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/hstr.php?contentID=1260000025&key
+#EXTINF:-1 tvg-id=ts1260000025 tvg-logo="https://www.urmc.rochester.edu/prnews/story/uploadedimages/0912096484_laughing%20emoji_5331.jpg" group-title="Hotstar",Star Sports 1 Hindi HD
+https://rftv.wtf/tp/hstr.mpd?contentID=1260000025
