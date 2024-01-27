@@ -36,8 +36,11 @@ https://chutiya-maharaj-ab-karlo-chori-ye-toxic-iptv-playlist-hei.vercel.app/24.
 
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/hstr.php?contentID=1260000025&key
-#EXTINF:-1 tvg-id=ts1260000025 tvg-logo="https://www.urmc.rochester.edu/prnews/story/uploadedimages/0912096484_laughing%20emoji_5331.jpg" group-title="Hotstar",Star Sports 1 Hindi HD
-https://rftv.wtf/tp/hstr.mpd?contentID=1260000025
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=52&key
+#EXTINF:-1 tvg-id=ts24 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Tata Sky",COLORS HD
+http://rftv.wtf/tp/rjiptv.mpd?contentID=52
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Jio",COLORS Jio
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8
