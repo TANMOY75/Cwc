@@ -12,7 +12,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 
 #EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-sports-1-hindi-hd-logo.webp",STAR SPORTS 1 HINDI FHD 
-http://4ksuper.live:80/Richard/Richard123/155967
+http://tv.cloudcdn.me/live.ts?channelId=49569&uid=4280&deviceMac=00:1A:79:17:C1:7F&play_token=test
 
 
 #EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="SPORTS| STAR SPORTS 1 HINDI HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-SPORTS-1-HINDI-HD.jpg" group-title="WORLD CRICKET",SPORTS| STAR SPORTS 1 HINDI HD
